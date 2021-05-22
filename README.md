@@ -8,5 +8,5 @@ General Info about slack users,channels etc..
 # Messages Per Channel
 ![Tmessages](./messages_channels.png)
 
-# Messages Per Use
+# Messages Per User
 ![Tmessages](./messages.png)
